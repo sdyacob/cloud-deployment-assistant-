@@ -1,0 +1,5 @@
+{
+  "name": "Cloud Deployment Assistant",
+  "description": "An intelligent assistant that generates automated, scalable deployment scripts for your web applications on AWS, GCP, or Azure. Simply configure your frontend and backend, and get a production-ready script in seconds.",
+  "requestFramePermissions": []
+}
